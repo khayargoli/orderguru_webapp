@@ -1,10 +1,16 @@
 {
   "hosting": {
-    "public": "dist/orderguru_webapp",
+    "public": "dist/orderguru_webapp/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
     ]
   }
 }

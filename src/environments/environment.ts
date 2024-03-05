@@ -1,13 +1,13 @@
 export const environment = {
     production: true,
     firebaseConfig : {
-      apiKey: "AIzaSyBJN3-OPmUzlLMvSTh5xt61XhTeZemogEU",
-      authDomain: "orderguru.firebaseapp.com",
-      projectId: "orderguru",
-      storageBucket: "orderguru.appspot.com",
-      messagingSenderId: "254449845828",
-      appId: "1:254449845828:web:6c383348e8bdd0ef43de11",
-      measurementId: "G-HZGDZX3QEW"
-    };
+      apiKey: "AIzaSyB4Aj5e0vksbyGk5YITVJMnf6DM7KdBGmw",
+      authDomain: "orderguru-prod.firebaseapp.com",
+      projectId: "orderguru-prod",
+      storageBucket: "orderguru-prod.appspot.com",
+      messagingSenderId: "629739533421",
+      appId: "1:629739533421:web:18c28fc239074a65577b64",
+      measurementId: "G-RB31NMX8TN"
+    }
   };
   

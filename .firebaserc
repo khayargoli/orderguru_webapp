@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "orderguru"
-  }
+    "default": "orderguru",
+    "development": "orderguru",
+    "production": "orderguru-prod"
+  },
+  "targets": {},
+  "etags": {}
 }
